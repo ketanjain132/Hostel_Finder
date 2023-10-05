@@ -1,8 +1,8 @@
-# Hostel Finder
+# Hostel Finder - Java Swing Project
 
 ## Introduction
 
-Moving to a new city or town and finding a suitable hostel can be a challenging task. Hostel Finder is a Java-based project that simplifies the process of finding and listing hostels. It eliminates the need for agents or brokers, allowing users to search for hostels with ease.
+Moving to a new city or town and finding a suitable hostel can be a challenging task. Hostel Finder is a Java-based project with a Swing GUI that simplifies the process of finding and listing hostels. It eliminates the need for agents or brokers, allowing users to search for hostels with ease.
 
 ## Features
 
@@ -16,7 +16,7 @@ Moving to a new city or town and finding a suitable hostel can be a challenging 
 - **Vacancy Details**: The system lists all available rooms and their current vacancies.
 - **Facilities and Images**: Users can view hostel facilities and images to get a clear picture of the accommodation.
 - **Distance from College**: Hostels are displayed based on their proximity to the user's college.
-- **Location**: Users can easily locate hostels on a map.
+- **Location on Map**: Users can easily locate hostels on a map.
 - **Ratings and Reviews**: Users can see ratings and reviews provided by other students, helping them make informed decisions.
 
 ### Admin Module
@@ -27,7 +27,7 @@ Moving to a new city or town and finding a suitable hostel can be a challenging 
 ## Technologies Used
 
 - **Java**: Used for implementing the project's logic.
-- **NetBeans**: Utilized for the graphical user interface (GUI) development.
+- **Java Swing**: Employed for creating the graphical user interface (GUI).
 - **MySQL**: Serves as the database for storing hostel and user information.
 
 ## Modules
